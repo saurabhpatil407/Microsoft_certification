@@ -1,0 +1,32 @@
+/* Custom Styles for My Website */
+
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Hero Section Customization */
+
+
+/* About Section Customization */
+.about img {
+    border-radius: 10px;
+}
+
+/* Services Section Customization */
+.services {
+    background-color: #007bff;
+}
+.services h3 {
+    margin-top: 15px;
+}
+
+/* Contact Section Customization */
+.contact .form-control {
+    border-radius: 0;
+}
+
+/* Footer Customization */
+footer {
+    background-color: #343a40;
+}
